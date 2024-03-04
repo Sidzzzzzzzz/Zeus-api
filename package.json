@@ -1,0 +1,28 @@
+{
+  "name": "Zeus-api",
+  "version": "1.0.2",
+  "description": "An npm with some features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Zeus-api", "api","pinterest-dl","pinterest","pinterest-downloader","Genshin-Impact","Genshin-Impact-API","Genshin-Impact-scraper"],
+  "author": "Sidzzzzzzzz",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jsdom": "^24.0.0",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidzzzzzzzz/Zeus-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sidzzzzzzzz/Zeus-api/issues"
+  },
+  "homepage": "https://github.com/Sidzzzzzzzz/Zeus-api#readme"
+}
